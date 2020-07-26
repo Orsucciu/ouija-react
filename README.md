@@ -1,3 +1,8 @@
+Un primu prughjettu di React, sottu à a forma d'una tavula Ouija
+
+
+//////////
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
