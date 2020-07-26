@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.039bf6b2.chunk.css",
-    "main.js": "/static/js/main.0e90b85f.chunk.js",
-    "main.js.map": "/static/js/main.0e90b85f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3f23ea7d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3f23ea7d.js.map",
-    "static/js/2.eb73c59e.chunk.js": "/static/js/2.eb73c59e.chunk.js",
-    "static/js/2.eb73c59e.chunk.js.map": "/static/js/2.eb73c59e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4f5b12346dd2cfa82fde37207715461b.js": "/precache-manifest.4f5b12346dd2cfa82fde37207715461b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.039bf6b2.chunk.css.map": "/static/css/main.039bf6b2.chunk.css.map",
-    "static/js/2.eb73c59e.chunk.js.LICENSE.txt": "/static/js/2.eb73c59e.chunk.js.LICENSE.txt",
-    "static/media/Alain-Johannes-Ouija-Planchette.png": "/static/media/Alain-Johannes-Ouija-Planchette.b502bec6.png",
-    "static/media/Ouija-main.jpg": "/static/media/Ouija-main.d1529b48.jpg"
+    "main.css": "/ouija-react/static/css/main.039bf6b2.chunk.css",
+    "main.js": "/ouija-react/static/js/main.fc067bf5.chunk.js",
+    "main.js.map": "/ouija-react/static/js/main.fc067bf5.chunk.js.map",
+    "runtime-main.js": "/ouija-react/static/js/runtime-main.cf06960f.js",
+    "runtime-main.js.map": "/ouija-react/static/js/runtime-main.cf06960f.js.map",
+    "static/js/2.eb73c59e.chunk.js": "/ouija-react/static/js/2.eb73c59e.chunk.js",
+    "static/js/2.eb73c59e.chunk.js.map": "/ouija-react/static/js/2.eb73c59e.chunk.js.map",
+    "index.html": "/ouija-react/index.html",
+    "precache-manifest.5c974cc1d6dd61e5ec9916aa52c2cbb8.js": "/ouija-react/precache-manifest.5c974cc1d6dd61e5ec9916aa52c2cbb8.js",
+    "service-worker.js": "/ouija-react/service-worker.js",
+    "static/css/main.039bf6b2.chunk.css.map": "/ouija-react/static/css/main.039bf6b2.chunk.css.map",
+    "static/js/2.eb73c59e.chunk.js.LICENSE.txt": "/ouija-react/static/js/2.eb73c59e.chunk.js.LICENSE.txt",
+    "static/media/Alain-Johannes-Ouija-Planchette.png": "/ouija-react/static/media/Alain-Johannes-Ouija-Planchette.b502bec6.png",
+    "static/media/Ouija-main.jpg": "/ouija-react/static/media/Ouija-main.d1529b48.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f23ea7d.js",
+    "static/js/runtime-main.cf06960f.js",
     "static/js/2.eb73c59e.chunk.js",
     "static/css/main.039bf6b2.chunk.css",
-    "static/js/main.0e90b85f.chunk.js"
+    "static/js/main.fc067bf5.chunk.js"
   ]
 }
